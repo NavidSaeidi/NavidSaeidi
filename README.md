@@ -3,8 +3,6 @@
 </div>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=1080&height=160&lines=>Hi+👋,+I'm+Navid+;A+software+engineer+from+Iran" alt="Typing SVG" /></a>
-<h1 align="center">Hi 👋, I'm Navid</h1>
-<h3 align="center">A software engineer from Iran</h3>
 
 <img align="right" width="300" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
 
